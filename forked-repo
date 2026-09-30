@@ -1,0 +1,11 @@
+curl -s https://api.github.com/repos/YOUR-USERNAME/YOUR-REPOSITORY
+
+{
+"name": "YOUR-REPOSITORY",
+"full_name": "YOUR-USERNAME/YOUR-REPOSITORY",
+"fork": true,
+"parent": {
+"name": "mcino-Introduction-to-Git-and-GitHub",
+"full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+}
+}
