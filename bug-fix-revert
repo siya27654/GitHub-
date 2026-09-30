@@ -1,0 +1,21 @@
+$ curl -s https://api.github.com/repos/YOUR-USERNAME/YOUR-REPOSITORY/pulls
+
+[
+{
+"url": "https://api.github.com/repos/YOUR-USERNAME/YOUR-REPOSITORY/pulls/1",
+"html_url": "https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/pull/1",
+"number": 1,
+"state": "closed",
+"title": "Bug fix typo",
+"head": {
+"repo": {
+"full_name": "YOUR-USERNAME/YOUR-REPOSITORY"
+}
+},
+"base": {
+"repo": {
+"full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+}
+}
+}
+]
