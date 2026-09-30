@@ -1,0 +1,6 @@
+$ git branch -a -vv
+
+* main          abc1234 Merge pull request #1
+  bug-fix-typo  def5678 Fix typo in README
+  remotes/origin/main          abc1234 Merge pull request #1
+  remotes/origin/bug-fix-typo  def5678 Fix typo in README
